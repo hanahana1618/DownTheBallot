@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "192.241.139.22",
+    "username": "ftpuser",
+    "password": "downtheballot",
+    "port": 22,
+    "remotePath": "var/www/",
+    "uploadOnSave": true
+}
