@@ -29,9 +29,9 @@
 
 <body id="page-top" class="index">
 
-    
+
     <!-- About Section -->
-    <section class="success" id="about">
+    <section class="success" id="about" style="text-align:center">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -39,13 +39,13 @@
                     <hr class="star-light">
                 </div>
             </div>
-            <div class="row">
+            <div class="row" style="text-align:center">
                 <form action="issues.php" method="POST" id="issues-form">
 
                     <div class="issue-listing">Increased School Funding</div>
-                    <fieldset id="school-funding">
-                        <input type="radio" name="school-funding" value="y_school-funding" /><label class="col-lg-2 control-label">Yes</label><br />
-                        <input type="radio" name="school-funding" value="n_school-funding" /><label class="col-lg-2 control-label">No</label><br />
+                    <fieldset id="school-funding" style="text-align:center">
+                        <input type="radio" name="school-funding" value="y_school-funding" /><label class="col-lg-2 control-label" style="text-align:center">Yes</label><br clear="all"/>
+                        <input type="radio" name="school-funding" value="n_school-funding" /><label class="col-lg-2 control-label" style="text-align:center">&nbsp;No</label><br clear="all" />
                     </fieldset>
 
                     <div class="issue-listing">Nuclear Power</div>
@@ -124,17 +124,17 @@
                     <fieldset id="medcost-transparancy">
                         <input type="radio" name="medcost-transparancy" value="y_medcost-transparancy" /><label class="col-lg-2 control-label">Yes</label><br />
                         <input type="radio" name="medcost-transparancy" value="n_medcost-transparancyNo" /><label class="col-lg-2 control-label">No</label><br />
-                    </fieldset>    
+                    </fieldset>
 
                     <div class="issue-listing">Sustainable Energy</div>
                     <fieldset id="sustainable-energy">
                         <input type="radio" name="sustainable-energy" value="y_sustainable-energy" /><label class="col-lg-2 control-label">Yes</label><br />
                         <input type="radio" name="sustainable-energy" value="n_sustainable-energy" /><label class="col-lg-2 control-label">No</label><br />
-                    </fieldset>     
+                    </fieldset>
                     <br />
                     <button type="submit" class="btn btn-primary">Submit</button>
 
-                </form>            
+                </form>
             </div>
         </div>
     </section>

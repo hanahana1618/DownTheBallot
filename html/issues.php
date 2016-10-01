@@ -16,7 +16,7 @@
     require("includes/config.php");
 
     if ($_SERVER['REQUEST_METHOD'] === 'GET') {
-        render("issues_page.html", ["title" => "Issues"]);
+        render("issues_form.php", ["title" => "Issues"]);
     }
 
     else {
@@ -26,4 +26,3 @@
 
 
 ?>
-

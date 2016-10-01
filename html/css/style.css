@@ -14,6 +14,12 @@
 #issues-form input {
   margin: 10px;
 }
+#issues-form fieldset {
+  display: inline-block;
+}
+#issues-form label {
+  margin-top: 5px;
+}
 
 .issue-listing {
   margin-top: 3%;
