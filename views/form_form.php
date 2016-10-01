@@ -1,9 +1,10 @@
 <!-- Form -->
 <section>
-<h2>Voter Information</h2>
+<h1  class="cand-type">Voter Information</h1>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-lg-10">
+        <div class="col-lg-12">
+        <div class="jumbotron">
 
             <form class="form-horizontal" action="form.php" method="POST">
             <fieldset>
@@ -38,6 +39,7 @@
             </fieldset>
             </form>
 
+            </div>
         </div>
     </div>
 </div>

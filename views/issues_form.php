@@ -35,11 +35,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2><?= $title ?></h2>
-                    <hr class="star-light">
+                    <h1  class="cand-type">Ballot Issues</h1>
+       
                 </div>
             </div>
-            <div class="row" style="text-align:center">
+            <div class="row jumbotron" style="text-align:center">
                 <form action="issues.php" method="POST" id="issues-form">
 
                     <div class="issue-listing">Increased School Funding</div>
