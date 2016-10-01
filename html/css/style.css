@@ -3,6 +3,22 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
+
+/* Custom CSS */
+.issue-panel {
+  display: inline;
+  border: 1px solid #000;
+}
+
+#issues-form input {
+  margin: 10px;
+}
+
+.issue-listing {
+  margin-top: 3%;
+}
+
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
