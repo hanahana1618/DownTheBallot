@@ -2,7 +2,7 @@
     "database": {
         "host": "localhost",
         "name": "DownTheBallot",
-        "username": "root",
-        "password": "downtheballotteammdc2016"
+        "username": "mysqluser",
+        "password": "downtheballot"
     }
 }

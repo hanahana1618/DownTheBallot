@@ -9,14 +9,7 @@
 
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
-        <link rel="stylesheet" type="text/css" href="css/navbar.css">
-        <link rel="stylesheet" type="text/css" href="css/footer.css">
-        <link rel="stylesheet" type="text/css" href="css/login.css">
-        <link rel="stylesheet" type="text/css" href="css/signup.css">
-        <link rel="stylesheet" type="text/css" href="css/word.css">
-        <link rel="stylesheet" type="text/css" href="css/apology.css">
-        <link rel="stylesheet" type="text/css" href="css/index.css">
-        <!-- <link rel="stylesheet" type="text/css" href="css/< = $css ?>.css"> -->
+
 
     </head>
     <body>
