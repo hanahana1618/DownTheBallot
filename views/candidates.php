@@ -11,13 +11,11 @@
                         <p>agrees with me on these issues:</p>
                     </div>
                     <div id="issue-holder">
-                        <a id="inline" href="#health"><div class="issue-div">Healthcare</div></a>
-                        <div style="display:none" id="health"><div id="healthcare">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></div>
-                        <a href="#" rel="lightbox" src="lightbox.js"><div class="issue-div">Environment</div></a>
-                        <div class="issue-div">Climate</div><div class="issue-div">Mass Transit</div> 
-                        <a id="inline" href="#data">This shows content of element who has id="data"</a>
-
-<div style="display:none"><div id="data">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></div>            
+                        <a href="#" id="healthcare-button"><div class="issue-div">Healthcare</div></a>
+                        
+                        <div class="issue-div">Environment</div>
+                        <div class="issue-div">Climate</div>
+                        <div class="issue-div">Mass Transit</div>
                     </div>
                 </div>
 
@@ -60,5 +58,3 @@
 
 </div>
 </section>
-
-
