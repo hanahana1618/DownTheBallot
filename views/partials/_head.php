@@ -29,10 +29,10 @@
         <![endif]-->
 
     </head>
-    <body class="index" id="page-top">
+    <body class="index" id="page-top" style="background-color:#18BC9c">
 
         <!-- Navigation -->
-    <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top" style="background-color:#18BC9C">
+    <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top" style="length:10%">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
