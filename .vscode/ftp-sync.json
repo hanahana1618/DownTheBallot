@@ -1,0 +1,16 @@
+{
+    "remotePath": "/var/www/",
+    "host": "192.241.139.22",
+    "username": "chris",
+    "password": "downtheballot",
+    "port": 22,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}
