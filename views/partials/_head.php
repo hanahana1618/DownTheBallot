@@ -19,7 +19,6 @@
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link href="css/form.css" rel="stylesheet" type="text/css">
 
-        <link rel="stylesheet" href="js/jquery.fancybox.css" type="text/css" media="screen" />
 
         <!-- <link rel="stylesheet" type="text/css" href="css/custom.css"> -->
 
