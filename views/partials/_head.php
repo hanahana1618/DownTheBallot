@@ -8,8 +8,7 @@
         <meta name="author" content="">
 
         <title href="index.php"><?= $title ?></title>
-
-
+        <link rel="stylesheet" type="text/css" href="css/style.css" >
         <link href="https://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet">
 
         <!-- Mobile Responsive -->
@@ -50,10 +49,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="about.php" style="color:black">About</a>
+                        <a class="page-scroll" href="about.html" style="color:black">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="info_c.php" style="color:black">Info</a>
+                        <a class="page-scroll" href="info.html" style="color:black">Info</a>
                     </li>
                 </ul>
             </div>
