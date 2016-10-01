@@ -17,7 +17,7 @@
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-        <link href="css/form.css" rel="stylesheet">
+        <link href="css/form.css" rel="stylesheet" type="text/css">
 
         <!-- <link rel="stylesheet" type="text/css" href="css/custom.css"> -->
 
@@ -32,7 +32,7 @@
     <body class="index" id="page-top" style="background-color:#18BC9c">
 
         <!-- Navigation -->
-    <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top" style="length:10%">
+    <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">

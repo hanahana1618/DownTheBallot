@@ -73,11 +73,9 @@
      */
     function render($view, $values = [])
     {
-        print_r("TESTING");
         // if view exists, render it
         if (file_exists("../views/{$view}"))
         {
-            print_r("debug");
             // extract variables into local scope
             extract($values);
 

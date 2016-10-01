@@ -1,5 +1,5 @@
 <!-- Form -->
-<?php print_r($userIssues); ?>
+<section>
 <h2>Voter Information</h2>
 <div class="container-fluid">
     <div class="row">
@@ -41,3 +41,4 @@
         </div>
     </div>
 </div>
+</section>
