@@ -17,7 +17,7 @@
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-        <link href="./public/css/form.css" rel="stylesheet">
+        <link href="css/form.css" rel="stylesheet">
 
         <!-- <link rel="stylesheet" type="text/css" href="css/custom.css"> -->
 
@@ -32,14 +32,14 @@
     <body class="index" id="page-top">
 
         <!-- Navigation -->
-    <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top" style="background-color:#18BC9C">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="index.php">Down The Ballot</a>
+                <a class="navbar-brand page-scroll" href="index.php" style="color:black">Down The Ballot</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
