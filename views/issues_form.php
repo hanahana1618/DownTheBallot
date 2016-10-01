@@ -132,7 +132,7 @@
                         <input type="radio" name="sustainable-energy" value="n_sustainable-energy" /><label class="col-lg-2 control-label">No</label><br />
                     </fieldset>
                     <br />
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="submit" class="btn btn-primary" style="margin-top:2%">Submit</button>
 
                 </form>
             </div>
