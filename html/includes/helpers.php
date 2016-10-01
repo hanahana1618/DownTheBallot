@@ -84,7 +84,7 @@
             // render view (between header and footer)
             require("../views/partials/_head.php");
             require("../views/{$view}");
-            require("../views/partials/_footer.php");
+            require("../views/partials/_scripts.php");
             exit;
         }
 
@@ -106,9 +106,9 @@
             extract($values);
 
             // render view (between header and footer)
-            require("../views/partials/_head_esp.php");
+            require("../views/partials/_head.php");
             require("../views/{$view}");
-            require("../views/partials/_footer_esp.php");
+            require("../views/partials/_scripts.php");
             exit;
         }
 

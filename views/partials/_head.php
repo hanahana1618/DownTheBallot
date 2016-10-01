@@ -62,9 +62,6 @@
                     <li>
                         <a class="page-scroll" href="info_c.php" style="color:black">Info</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#about" style="color:black">Contact</a>
-                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
