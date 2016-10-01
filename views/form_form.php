@@ -1,4 +1,5 @@
 <!-- Form -->
+<?php print_r($userIssues); ?>
 <h2>Voter Information</h2>
 <div class="container-fluid">
     <div class="row">
