@@ -8,16 +8,7 @@
         <meta name="author" content="">
 
         <title href="index.php"><?= $title ?></title>
-
-        <?php
-        if (strpos($title, 'About') !== false) {
-            echo '<link rel="stylesheet" type="text/css" href="css/about.css" >';
-        } elseif ((strpos($title, 'Information') !== false)) {
-            echo '<link rel="stylesheet" type="text/css" href="css/info.css" >';
-        } else {
-            echo '<link rel="stylesheet" type="text/css" href="css/style.css" >';
-        }
-        ?>
+        <link rel="stylesheet" type="text/css" href="css/style.css" >
         <link href="https://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet">
 
         <!-- Mobile Responsive -->
@@ -26,6 +17,7 @@
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link href="./public/css/form.css" rel="stylesheet">
 
         <!-- <link rel="stylesheet" type="text/css" href="css/custom.css"> -->
 
@@ -57,10 +49,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="about.php" style="color:black">About</a>
+                        <a class="page-scroll" href="about.html" style="color:black">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="info_c.php" style="color:black">Info</a>
+                        <a class="page-scroll" href="info.html" style="color:black">Info</a>
                     </li>
                 </ul>
             </div>

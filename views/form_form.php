@@ -1,10 +1,12 @@
 <!-- Form -->
+<h2>Voter Information</h2>
 <div class="container-fluid">
     <div class="row">
         <div class="col-lg-10">
+
             <form class="form-horizontal">
             <fieldset>
-                <legend>Voter Information</legend>
+
                 <div class="form-group">
                 <label for="street" class="col-lg-2 control-label">Street</label>
                 <div class="col-lg-10">
@@ -13,8 +15,16 @@
                 </div>
                 <div class="form-group">
                 <label for="zipcode" class="col-lg-2 control-label">Zipcode</label>
-                <div class="col-lg-4 col-xs-4">
+                <div class="col-lg-3 col-xs-3">
                     <input type="text" class="form-control" id="zipcode" placeholder="Zipcode">
+                </div>
+                <label for="zipcode" class="col-lg-1 control-label">State</label>
+                <div class="col-lg-2 col-xs-2">
+                    <input type="text" class="form-control" id="state" placeholder="State">
+                </div>
+                <label for="zipcode" class="col-lg-1 control-label">County</label>
+                <div class="col-lg-2 col-xs-2">
+                    <input type="text" class="form-control" id="county" placeholder="County">
                 </div>
                 </div>
 
