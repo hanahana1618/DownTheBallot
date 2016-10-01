@@ -20,7 +20,6 @@
     }
 
     else {
-        print_r("POSTin'");
         $_SESSION["userIssues"] = array_clone($_POST);
         redirect("form.php");
     }

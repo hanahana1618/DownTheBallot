@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-lg-10">
 
-            <form class="form-horizontal">
+            <form class="form-horizontal" action="form.php" method="POST">
             <fieldset>
 
                 <div class="form-group">

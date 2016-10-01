@@ -3,7 +3,12 @@
     // configuration
     require("includes/config.php");
 
-    // if user reached page via GET (as by clicking a link or via redirect)
-    render("form_form.php", ["title" => "Form"]);
+    if ($_SERVER['REQUEST_METHOD'] === 'GET') {
+        render("form_form.php", ["title" => "Voter Information"]);
+    }
+
+    else {
+        render("candidates.php", ["title" => "Candidate Report"]);
+    }
 
 ?>
